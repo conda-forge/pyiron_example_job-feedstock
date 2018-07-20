@@ -1,6 +1,6 @@
 {% set name = "pyiron_example_job" %}
-{% set version = "0.1.4" %}
-{% set sha256 = "1f2ef7f9b38f12d6e85c2ddf8758d918e89edb3379aaa8989efff2c1efe17145" %}
+{% set version = "0.1.7" %}
+{% set sha256 = "5f6788cecebcdc1610a836e37c3814f70f7cc34f7f71f16c55488cd4ad1f1e5f" %}
 
 package:
   name: {{ name|lower }}
